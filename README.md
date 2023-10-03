@@ -13,10 +13,6 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: ...
 -->
-<a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat-square&logo=JavaScript&logoColor=#F7DF1E"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat-square&logo=로고&logoColor=로고색상"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat-square&logo=로고&logoColor=로고색상"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat-square&logo=로고&logoColor=로고색상"/></a>
 
 👋 Hello!
 I am a web backend developer using Java Spring Framework.
