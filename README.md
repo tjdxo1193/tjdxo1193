@@ -13,23 +13,4 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: ...
 -->
-
-👋 Hello!
-I am a web backend developer using Java Spring Framework.
-
-I like to learn new skills and knowledge
-
-💪 Skills
-Language & Framework
-Java
-
-JavaScript HTML5 
-
-DBMS
-MySQL Oracle
-
-Etc.
-Git
-
-🌱 Some of my Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjdxo1193&show_icons=true&theme=gruvbox_light)
